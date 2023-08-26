@@ -1,9 +1,9 @@
 # BizCardX_Extracting_Business_Card_Data
 
-### Objective of the project is to make a Streamlit application that allows users to upload
-### an image of a business card and extract relevant information from it using easyOCR.
+#### Objective of the project is to make a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR.
 
-## Technologies: OCR,streamlit GUI, SQL,Data Extraction
+## Technologies:
+#### OCR,streamlit GUI, SQL,Data Extraction
 
 ## Approach:
 1. Installed Python, Streamlit, easyOCR, and database management system MySQL.
